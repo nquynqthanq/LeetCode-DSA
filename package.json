@@ -1,0 +1,15 @@
+{
+  "name": "leetcode-dsa",
+  "version": "1.0.0",
+  "description": "LeetCode DSA chứa các giải pháp cho các bài toán LeetCode. Mỗi bài toán đi kèm với code giải thuật và unit test sử dụng Jest. Hãy cùng nhau học hỏi và cải thiện kỹ năng giải thuật! 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
