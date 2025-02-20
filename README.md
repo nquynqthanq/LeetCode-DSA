@@ -12,16 +12,16 @@ Welcome to my repository! This is where I document my journey of mastering Data 
 This repository is organized into the following sections:
 
 *   **LeetCode Daily Challenges:**
-*   Solutions to daily problems posted on LeetCode. Perfect for consistent practice!
+*     Solutions to daily problems posted on LeetCode. Perfect for consistent practice!
 
 *   **Codeforces Problemset:**
-*   Solutions to problems from Codeforces, focusing on competitive programming techniques.
+*     Solutions to problems from Codeforces, focusing on competitive programming techniques.
 
 *   **Algorithmic Patterns:**
-*   A collection of common algorithmic patterns and techniques, implemented in multiple languages.
+*     A collection of common algorithmic patterns and techniques, implemented in multiple languages.
 
 *   **Weekly Contests:**
-*   My attempts at solving problems from LeetCode’s weekly contests. A great way to simulate real interview conditions.
+*     My attempts at solving problems from LeetCode’s weekly contests. A great way to simulate real interview conditions.
 
 ## License
 
